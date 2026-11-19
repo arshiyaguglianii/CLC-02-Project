@@ -1,0 +1,336 @@
+S No.,Country,City,Company,Contact,Google Maps,Category,Rating,Review,Clean Category,Conversion_Probability,Rule_Priority,Predicted_Probability,Priority
+290,India,Bengaluru,32 Smiles,9343433222,32 Smiles - Google Maps,Dentist,4.2,354,Dentist,0.85,High Priority,0.85,High Priority
+293,India,Bengaluru,Partha Dental Marathahalli,7760230407,Partha Dental Marathahalli - Google Maps,Dentist,4.7,658,Dentist,0.85,High Priority,0.85,High Priority
+302,India,Bengaluru,Phoeniix Dental care,7619473070,Phoeniix Dental care - Marathahalli - Google Maps,Dental,4.9,299,Dentist,0.85,High Priority,0.85,High Priority
+315,USA,New York,Century Medical & Dental Center,12123695566,"Century Medical & Dental Center | Midtown, Manhattan - Google Maps",Dental,4.4,788,Dentist,0.85,High Priority,0.829,High Priority
+150,India,Delhi,Smile N Care Dental Clinics Implant Center,9999891915,Smile N Care Dental Clinics Implant Center - Google Maps,Dentist,4.9,258,Dentist,0.85,High Priority,0.822,High Priority
+292,India,Bengaluru,Prakash Laboratories,9844055023,Prakash Laboratories - Google Maps,Bloodtest center,4.9,701,Medical laboratory,0.85,High Priority,0.71,High Priority
+237,India,Bengaluru,Sukino Whitefield,7676299000,Sukino Whitefield - Google Maps,Rehablitation centers,4.6,249,Physical rehabilitation center,0.85,High Priority,0.703,High Priority
+213,India,Delhi,Makashir Diagonostics,7500872008,Makashir Diagnostics - Google Maps,Medical laboratory,4.1,44,Medical laboratory,0.85,High Priority,0.668,High Priority
+1,India,Ahmedabad,Kabira Institute of Computer,+91 70450 58912,https://www.google.com/maps/search/?api=1&query=Kabira+Institute+of+Computer+Ahmedabad,Computer Training,4.9,135,Educational institution,0.55,Medium Priority,0.55,Low Priority
+2,India,Ahmedabad,Anik Computers and Education,+91 94263 53863,https://www.google.com/maps/search/?api=1&query=Anik+Computers+and+Education+Ahmedabad,Computer Training,5.0,70,Educational institution,0.55,Medium Priority,0.55,Low Priority
+3,India,Ahmedabad,Jade Education and Training,+91 88791 52644,https://www.google.com/maps/search/?api=1&query=Jade+Education+and+Training+Ahmedabad,Computer Training,5.0,528,Educational institution,0.55,Medium Priority,0.55,Low Priority
+4,India,Ahmedabad,New Pramukh Institute of Information Technology,+91 88791 68790,https://www.google.com/maps/search/?api=1&query=New+Pramukh+Institute+of+Information+Technology+Ahmedabad,Technology Training,4.9,300,Educational institution,0.55,Medium Priority,0.55,Low Priority
+5,India,Ahmedabad,Sultan Ahmed Computer Centre,079 2550 6264,https://www.google.com/maps/search/?api=1&query=Sultan+Ahmed+Computer+Centre+Ahmedabad,Computer Training,4.6,152,Educational institution,0.55,Medium Priority,0.55,Low Priority
+6,India,Ahmedabad,Microshine Computer Academy,+91 90168 32400,https://www.google.com/maps/search/?api=1&query=Microshine+Computer+Academy+Ahmedabad,Computer Training,4.9,142,Educational institution,0.55,Medium Priority,0.55,Low Priority
+7,India,Ahmedabad,CDAC Computer Education,+91 98244 45697,https://maps.app.goo.gl/FfNbx2THRJuKqxrY7,Computer Training,4.9,198,Educational institution,0.55,Medium Priority,0.55,Low Priority
+8,India,Ahmedabad,Akshar Compusoft Education,+91 99984 42282,https://www.google.com/maps/search/?api=1&query=Akshar+Compusoft+Education+Ahmedabad,Computer Training,4.8,122,Educational institution,0.55,Medium Priority,0.55,Low Priority
+9,India,Ahmedabad,Genius Computer,079 2929 8224,https://www.google.com/maps/search/?api=1&query=Genius+Computer+Ahmedabad,Computer Training,4.7,79,Educational institution,0.55,Medium Priority,0.55,Low Priority
+10,India,Ahmedabad,Sigma Computer Education,+91 97232 47494,https://www.google.com/maps/search/?api=1&query=Sigma+Computer+Education+Ahmedabad,Computer Training,4.9,1433,Educational institution,0.55,Medium Priority,0.55,Low Priority
+11,India,Ahmedabad,G Tec Computer Education - Maninagar,+91 97143 39164,https://maps.app.goo.gl/Wu8TBkXP7JkCXH8o6,Computer Training,5.0,14,Educational institution,0.55,Medium Priority,0.55,Low Priority
+12,India,Ahmedabad,G Tec Computer Education - Ghatlodia,+91 95588 80083,https://maps.app.goo.gl/dfipZumGb74ART1P6,Computer Training,4.9,64,Educational institution,0.55,Medium Priority,0.55,Low Priority
+13,India,Ahmedabad,Skilliq,079 4004 9459,https://www.google.com/maps/search/?api=1&query=Skilliq+Paldi+Ahmedabad,Technology Training,4.6,18,Educational institution,0.55,Medium Priority,0.55,Low Priority
+14,India,Ahmedabad,H & B Computer Education,+91 94276 64076,https://www.google.com/maps/search/?api=1&query=H+B+Computer+Education+Maninagar+Ahmedabad,Computer Training,4.9,1714,Educational institution,0.55,Medium Priority,0.55,Low Priority
+15,India,Ahmedabad,Brilliant Computer Education,+91 94289 52837,https://www.google.com/maps/search/?api=1&query=Brilliant+Computer+Education+Bopal+Ahmedabad,Computer Training,5.0,"1,143",Educational institution,0.55,Medium Priority,0.55,Low Priority
+16,India,Ahmedabad,Akash Sir - IT Training Academy,+91 99786 21654,https://www.google.com/maps/search/?api=1&query=Akash+Sir+IT+Training+Academy+Ahmedabad,Technology Training,4.9,408,Educational institution,0.55,Medium Priority,0.55,Low Priority
+17,USA,Houston,CompuTrain Business Solutions Ltd.,+1 713-349-9186,https://www.google.com/maps/search/?api=1&query=CompuTrain+Business+Solutions+Houston,Computer Training,5.0,141,Educational institution,0.55,Medium Priority,0.55,Low Priority
+18,USA,Houston,KB Tech Institute,+1 713-955-2017,https://www.google.com/maps/search/?api=1&query=KB+Tech+Institute+Houston,Technology Training,4.7,15,Educational institution,0.55,Medium Priority,0.55,Low Priority
+19,USA,Houston,TestMasters,+1 281-276-7777,https://www.google.com/maps/search/?api=1&query=TestMasters+Houston,Coaching Institute,5.0,1,Educational institution,0.55,Medium Priority,0.55,Low Priority
+20,USA,Houston,MyComputerCareer,+1 866-606-6922,https://www.google.com/maps/search/?api=1&query=MyComputerCareer+Houston,Technology Training,4.0,290,Educational institution,0.55,Medium Priority,0.55,Low Priority
+21,USA,Houston,Realztech Consulting,+1 713-636-3221,https://www.google.com/maps/search/?api=1&query=Realztech+Consulting+Houston,Technology Training,5.0,17,Educational institution,0.55,Medium Priority,0.55,Low Priority
+22,India,Ahmedabad,C N Centre For Computer Education,+91 99245 55822,https://www.google.com/maps/search/?api=1&query=C+N+Centre+For+Computer+Education+Ahmedabad,Computer Training,4.8,9,Educational institution,0.55,Medium Priority,0.55,Low Priority
+23,India,Ahmedabad,Frameboxx - Vastrapur,079-32443200,https://www.google.com/maps/search/?api=1&query=Frameboxx+Vastrapur+Ahmedabad,Technology Training,4.8,235,Educational institution,0.55,Medium Priority,0.55,Low Priority
+24,India,Ahmedabad,DTTI - Digital Technological Training Institute,9978482390,https://www.google.com/maps/search/?api=1&query=DTTI+Digital+Technological+Training+Institute+Ahmedabad,Technology Training,3.6,11,Educational institution,0.55,Medium Priority,0.55,Low Priority
+25,India,Ahmedabad,Aptech Computer Education - Drive In Road,079-65121212,https://www.google.com/maps/search/?api=1&query=Aptech+Computer+Education+Drive+In+Road+Ahmedabad,Computer Training,4.8,95,Educational institution,0.55,Medium Priority,0.55,Low Priority
+26,India,Ahmedabad,Ed24 Genuine Education,02717-234324,https://www.google.com/maps/search/?api=1&query=Ed24+Genuine+Education+Bopal+Ahmedabad,Coaching Institute,4.9,886,Educational institution,0.55,Medium Priority,0.55,Low Priority
+27,India,Ahmedabad,ITCT Computer Education,8866556175,https://maps.app.goo.gl/n99YVyRhViA3yz379,Computer Training,4.8,50,Educational institution,0.55,Medium Priority,0.55,Low Priority
+28,India,Ahmedabad,Hi-TECH Institute of Information Technology,+91 80005 30134,https://www.google.com/maps/search/?api=1&query=Hi+TECH+Institute+of+Information+Technology+Ahmedabad,Technology Training,4.9,1625,Educational institution,0.55,Medium Priority,0.55,Low Priority
+29,USA,Houston,Excel Solutions Team,+1 713-589-2655,https://www.google.com/maps/search/?api=1&query=Excel+Solutions+Team+Houston,Computer Training,5.0,3,Educational institution,0.55,Medium Priority,0.55,Low Priority
+30,USA,Houston,Connect Learning LLC,+1 713-783-6188,https://www.google.com/maps/search/?api=1&query=Connect+Learning+LLC+Houston,Computer Training,4.8,230,Educational institution,0.55,Medium Priority,0.55,Low Priority
+31,India,Ahmedabad,Arrow Computers,079-27454748,https://www.google.com/maps/search/?api=1&query=Arrow+Computers+Ahmedabad,Computer Training,4.3,4,Educational institution,0.55,Medium Priority,0.55,Low Priority
+32,India,Ahmedabad,Roman Technology,+91 96876 15494,https://www.google.com/maps/search/?api=1&query=Roman+Technology+Ahmedabad,Technology Training,4.1,406,Educational institution,0.55,Medium Priority,0.55,Low Priority
+33,India,Ahmedabad,Shreeji Computer Education,+91 99241 26617,https://www.google.com/maps/search/?api=1&query=Shreeji+Computer+Education+Ahmedabad,Computer Training,4.5,4,Educational institution,0.55,Medium Priority,0.55,Low Priority
+34,India,Ahmedabad,MSM Computer and Mobile Institute - Lal Darwaja,079-65426059,https://www.google.com/maps/search/?api=1&query=MSM+Computer+and+Mobile+Institute+Lal+Darwaja,Computer Training,4.6,125,Educational institution,0.55,Medium Priority,0.55,Low Priority
+35,India,Ahmedabad,GT Computer Hardware Engineering College,+91 98981 23542,https://www.google.com/maps/search/?api=1&query=GT+Computer+Hardware+Engineering+College+Ahmedabad,Computer Hardware Training,4.8,85,Educational institution,0.55,Medium Priority,0.55,Low Priority
+36,India,Ahmedabad,Keyur Computer,9898088501,https://maps.app.goo.gl/vegPJwCCRZqDgtva6,Computer Training,4.7,10,Educational institution,0.55,Medium Priority,0.55,Low Priority
+37,India,Ahmedabad,Frameboxx - SG Highway,079-40025959,https://www.google.com/maps/search/?api=1&query=Frameboxx+SG+Highway+Ahmedabad,Animation and Design Training,4.9,215,Educational institution,0.55,Medium Priority,0.55,Low Priority
+38,India,Ahmedabad,Aptech Computer Education - Bapunagar,079-22741281,https://www.google.com/maps/search/?api=1&query=Aptech+Computer+Education+Bapunagar+Ahmedabad,Computer Training,4.6,340,Educational institution,0.55,Medium Priority,0.55,Low Priority
+39,India,Ahmedabad,Tally Academy - Satellite,079-40065307,https://www.google.com/maps/search/?api=1&query=Tally+Academy+Satellite+Ahmedabad,Accounting Software Training,4.8,95,Educational institution,0.55,Medium Priority,0.55,Low Priority
+40,India,Ahmedabad,NIAT,079-69435005,https://www.google.com/maps/search/?api=1&query=NIAT+Ahmedabad,Technology Training,4.7,150,Educational institution,0.55,Medium Priority,0.55,Low Priority
+41,India,Ahmedabad,Reha Education Tally Academy,079-22200633,https://www.google.com/maps/search/?api=1&query=Reha+Education+Tally+Academy+Ahmedabad,Accounting Software Training,4.5,64,Educational institution,0.55,Medium Priority,0.55,Low Priority
+42,India,Ahmedabad,Ants Animation Training School,079-40041947,https://www.google.com/maps/search/?api=1&query=Ants+Animation+Training+School+Ahmedabad,Animation Training,4.8,180,Educational institution,0.55,Medium Priority,0.55,Low Priority
+43,India,Ahmedabad,Xplora Design Skool,079-26568866,https://www.google.com/maps/search/?api=1&query=Xplora+Design+Skool+Ahmedabad,Design Training,4.9,230,Educational institution,0.55,Medium Priority,0.55,Low Priority
+44,India,Ahmedabad,Dreamline IT Education,07045 052462,https://www.google.com/maps/search/?api=1&query=Dreamline+IT+Education+Ahmedabad,IT Training,4.6,72,Educational institution,0.55,Medium Priority,0.55,Low Priority
+45,India,Ahmedabad,Iceel Academy,9409406466,https://www.google.com/maps/search/?api=1&query=Iceel+Academy+Ahmedabad,Technology Training,4.7,115,Educational institution,0.55,Medium Priority,0.55,Low Priority
+46,India,Ahmedabad,Institute of Advance Network Technology,079-32516577,https://maps.app.goo.gl/cigvi4mEjsUvySdx6,Networking Training,3.8,113,Educational institution,0.55,Medium Priority,0.55,Low Priority
+47,USA,Houston,CompuTrain Business Solutions Ltd,+1 713-349-9186,https://www.google.com/maps/search/?api=1&query=CompuTrain+Business+Solutions+Houston,Computer Training,5.0,141,Educational institution,0.55,Medium Priority,0.55,Low Priority
+48,USA,Houston,Grace Computer & Internet Corp.,+1 713-779-8444,https://www.google.com/maps/search/?api=1&query=Grace+Computer+Internet+Houston,IT Services and Training,4.8,118,Educational institution,0.55,Medium Priority,0.55,Low Priority
+49,USA,Houston,AbroVision Global IT Training,+1 844-999-2276,https://www.google.com/maps/search/?api=1&query=AbroVision+Global+IT+Training+Houston,IT Training,4.9,97,Educational institution,0.55,Medium Priority,0.55,Low Priority
+50,USA,Houston,Houston's Training and Education Center,+1 281-919-2986,https://www.google.com/maps/search/?api=1&query=Houston+Training+and+Education+Center,Technology Training,3.9,26,Educational institution,0.55,Medium Priority,0.55,Low Priority
+51,USA,Houston,Milestone Technical Institute,+1 713-988-1211,https://www.google.com/maps/search/?api=1&query=Milestone+Technical+Institute+Houston,IT Training,4.3,35,Educational institution,0.55,Medium Priority,0.55,Low Priority
+52,India,Kolkata,Moulali Youth Computer Training Centre,9830390004,https://www.google.com/maps/search/?api=1&query=Moulali+Youth+Computer+Training+Centre+Kolkata,Computer Training,4.0,651,Educational institution,0.55,Medium Priority,0.55,Low Priority
+53,India,Kolkata,South Kolkata Youth Computer Training Centre,9874644112,https://www.google.com/maps/search/?api=1&query=South+Kolkata+Youth+Computer+Training+Centre,Computer Training,4.4,7,Educational institution,0.55,Medium Priority,0.55,Low Priority
+54,India,Kolkata,Prof. Nurul Hassan Memorial Youth Computer Training Centre,8335893666,https://www.google.com/maps/search/?api=1&query=Prof+Nurul+Hassan+Memorial+Youth+Computer+Training+Centre,Computer Training,4.5,23,Educational institution,0.55,Medium Priority,0.55,Low Priority
+55,India,Kolkata,Seven Boats Info-System Pvt. Ltd.,8017049042,https://www.google.com/maps/search/?api=1&query=Seven+Boats+Info+System+Kolkata,Digital Marketing Training,5.0,4,Educational institution,0.55,Medium Priority,0.55,Low Priority
+56,India,Kolkata,Supreme Software and IT Solutions,6289218008,https://www.google.com/maps/search/?api=1&query=Supreme+Software+and+IT+Solutions+Kolkata,Computer Training,4.9,70,Educational institution,0.55,Medium Priority,0.55,Low Priority
+57,India,Kolkata,Merit Infotech,9830306185,https://www.google.com/maps/search/?api=1&query=Merit+Infotech+Kolkata,Computer Training,4.6,36,Educational institution,0.55,Medium Priority,0.55,Low Priority
+58,India,Kolkata,Arup Sengupta's Computer Education,9830383171,https://www.google.com/maps/search/?api=1&query=Arup+Sengupta+Computer+Education+Kolkata,Computer Training,5.0,83,Educational institution,0.55,Medium Priority,0.55,Low Priority
+59,India,Kolkata,Axis Academy,9831362209,https://www.google.com/maps/search/?api=1&query=Axis+Academy+Kolkata,Computer Training,4.7,7,Educational institution,0.55,Medium Priority,0.55,Low Priority
+60,India,Kolkata,CBIIT,7797840290,https://www.google.com/maps/search/?api=1&query=CBIIT+Kolkata,IT Training,4.8,296,Educational institution,0.55,Medium Priority,0.55,Low Priority
+61,India,Kolkata,La Mare Institute of Information Technology,8232978926,https://www.google.com/maps/search/?api=1&query=La+Mare+Institute+of+Information+Technology+Kolkata,IT Training,4.6,18,Educational institution,0.55,Medium Priority,0.55,Low Priority
+62,India,Kolkata,Jolly Computer Centre,9330866581,https://www.google.com/maps/search/?api=1&query=Jolly+Computer+Centre+Kolkata,Computer Training,4.8,215,Educational institution,0.55,Medium Priority,0.55,Low Priority
+63,India,Kolkata,ROOT Computer,9830199516,https://www.google.com/maps/search/?api=1&query=ROOT+Computer+Kolkata,Computer Training,4.8,425,Educational institution,0.55,Medium Priority,0.55,Low Priority
+64,India,Kolkata,S.R. Computer Training Centre,9883213444,https://www.google.com/maps/search/?api=1&query=SR+Computer+Training+Centre+Kolkata,Computer Training,4.8,11,Educational institution,0.55,Medium Priority,0.55,Low Priority
+65,India,Kolkata,Intech Computer Academy,033-25439584,https://www.google.com/maps/search/?api=1&query=Intech+Computer+Academy+Kolkata,Computer Training,4.5,4,Educational institution,0.55,Medium Priority,0.55,Low Priority
+66,India,Kolkata,Ikon Computer Education and Training Institute,8240159300,https://www.google.com/maps/search/?api=1&query=Ikon+Computer+Education+Kolkata,Computer Training,4.0,10,Educational institution,0.55,Medium Priority,0.55,Low Priority
+67,India,Kolkata,Arena Animation - Park Street,9830058999,https://www.google.com/maps/search/?api=1&query=Arena+Animation+Park+Street+Kolkata,Animation Training,4.6,376,Educational institution,0.55,Medium Priority,0.55,Low Priority
+68,India,Kolkata,CMC Academy - Gariahat,9433258217,https://www.google.com/maps/search/?api=1&query=CMC+Academy+Gariahat+Kolkata,Computer Training,4.9,322,Educational institution,0.55,Medium Priority,0.55,Low Priority
+69,USA,Phoenix,Phoenix College,+1 602-285-7777,https://www.google.com/maps/search/?api=1&query=Phoenix+College+Phoenix+AZ,College and Technology Education,4.3,405,Educational institution,0.55,Medium Priority,0.55,Low Priority
+70,USA,Phoenix,Beyond20,+1 866-856-3117,https://www.google.com/maps/search/?api=1&query=Beyond20+Tempe+AZ,ITSM and Technology Training,5.0,12,Educational institution,0.55,Medium Priority,0.55,Low Priority
+71,USA,Phoenix,GateWay Community College,16022868000,https://maps.app.goo.gl/mDn5CFexXbPpAZNk8,Computer and IT Education,4.0,229,Educational institution,0.55,Medium Priority,0.55,Low Priority
+72,India,Kolkata,Behala Chowrasta Youth Computer Training Centre,8584847777,https://www.google.com/maps/search/?api=1&query=Behala+Chowrasta+Youth+Computer+Training+Centre+Kolkata,Computer Training,4.7,"2,089",Educational institution,0.55,Medium Priority,0.55,Low Priority
+73,India,Kolkata,Sodepur Tollygunge Youth Computer Training Centre,8240859097,https://www.google.com/maps/search/?api=1&query=Sodepur+Tollygunge+Youth+Computer+Training+Centre+Kolkata,Computer Training,4.9,43,Educational institution,0.55,Medium Priority,0.55,Low Priority
+74,India,Kolkata,Anandapur Swami Vivekananda Youth Computer Training Centre,9748696526,https://www.google.com/maps/search/?api=1&query=Anandapur+Swami+Vivekananda+Youth+Computer+Training+Centre,Computer Training,4.9,967,Educational institution,0.55,Medium Priority,0.55,Low Priority
+75,India,Kolkata,Kestopur Youth Computer Training Centre,9836572222,https://www.google.com/maps/search/?api=1&query=Kestopur+Youth+Computer+Training+Centre+Kolkata,Computer Training,4.9,1173,Educational institution,0.55,Medium Priority,0.55,Low Priority
+76,India,Kolkata,Institute of Intellectual Information,9674122138,https://www.google.com/maps/search/?api=1&query=Institute+of+Intellectual+Information+Kolkata,Computer Training,4.9,969,Educational institution,0.55,Medium Priority,0.55,Low Priority
+77,India,Kolkata,Palbazar Youth Computer Training Centre,9830483745,https://www.google.com/maps/search/?api=1&query=Palbazar+Youth+Computer+Training+Centre+Kolkata,Computer Training,4.9,656,Educational institution,0.55,Medium Priority,0.55,Low Priority
+78,India,Kolkata,C-Cube Centre of Computer Education,9007116752,https://www.google.com/maps/search/?api=1&query=C-Cube+Centre+of+Computer+Education+Kolkata,Computer Training,4.8,243,Educational institution,0.55,Medium Priority,0.55,Low Priority
+79,India,Kolkata,St. Paul's Computer Training Center,9903782341,https://www.google.com/maps/search/?api=1&query=St+Pauls+Computer+Training+Center+Thakurpukur,Computer Training,5.0,9,Educational institution,0.55,Medium Priority,0.55,Low Priority
+80,India,Kolkata,CloudNet Institute of Information Technology - Dum Dum,9831697980,https://www.google.com/maps/search/?api=1&query=CloudNet+Institute+Dum+Dum+Kolkata,IT Training,4.3,46,Educational institution,0.55,Medium Priority,0.55,Low Priority
+81,India,Kolkata,CloudNet Institute of Information Technology - Barasat,9830777940,https://www.google.com/maps/search/?api=1&query=CloudNet+Institute+Barasat,Kolkata,4.0,62,Educational institution,0.55,Medium Priority,0.55,Low Priority
+82,India,Kolkata,Aptech Learning - Hazra,9339408422,https://www.google.com/maps/search/?api=1&query=Aptech+Learning+Hazra+Kolkata,IT Training,4.7,970,Educational institution,0.55,Medium Priority,0.55,Low Priority
+83,India,Kolkata,NICS Computer,9062813257,https://www.google.com/maps/search/?api=1&query=NICS+Computer+Baghajatin+Kolkata,Computer and Software Training,5.0,304,Educational institution,0.55,Medium Priority,0.55,Low Priority
+84,India,Kolkata,ICT Computer,9831686218,https://www.google.com/maps/search/?api=1&query=ICT+Computer+Garden+Reach+Kolkata,Computer Training,4.9,472,Educational institution,0.55,Medium Priority,0.55,Low Priority
+85,India,Kolkata,Introduction Computer Centre,9143048483,https://www.google.com/maps/search/?api=1&query=Introduction+Computer+Centre+Kolkata,Computer Training,4.7,464,Educational institution,0.55,Medium Priority,0.55,Low Priority
+86,India,Kolkata,Lalani Computer Academy Pvt. Ltd.,9088012311,https://www.google.com/maps/search/?api=1&query=Lalani+Computer+Academy+Kolkata,Computer Training,4.9,808,Educational institution,0.55,Medium Priority,0.55,Low Priority
+87,India,Kolkata,LCC Infotech Limited,9007130851,https://www.google.com/maps/search/?api=1&query=LCC+Infotech+Kolkata,IT Training,5.0,16,Educational institution,0.55,Medium Priority,0.55,Low Priority
+88,India,Kolkata,National Computer Saksharta Mission,9434555432,https://www.google.com/maps/search/?api=1&query=National+Computer+Saksharta+Mission+Kolkata,Computer Training,5.0,3,Educational institution,0.55,Medium Priority,0.55,Low Priority
+89,USA,Phoenix,Phoenix Computer Academy,+1 602-277-0707,https://www.google.com/maps/search/?api=1&query=Phoenix+Computer+Academy+Phoenix+AZ,Computer and IT Training,5.0,8,Educational institution,0.55,Medium Priority,0.55,Low Priority
+90,USA,Phoenix,Internet Institute USA,+1 602-776-4545,https://www.google.com/maps/search/?api=1&query=Internet+Institute+USA+Phoenix+AZ,Computer and IT Training,0.0,0,Educational institution,0.55,Medium Priority,0.55,Low Priority
+91,India,Kolkata,MARS Training & Solution,+91 98702 59245,https://www.google.com/maps/search/?api=1&query=MARS+Training+Solution+Kolkata,Software Training,5.0,1079,Educational institution,0.55,Medium Priority,0.55,Low Priority
+92,India,Kolkata,ARDENT COMPUTECH PVT. LTD.,+91 1800 890 4233,https://www.google.com/maps/search/?api=1&query=Ardent+Computech+Kolkata,Software Training,4.6,20716,Educational institution,0.55,Medium Priority,0.55,Low Priority
+93,India,Kolkata,National Youth Computer Academy,9903535635,https://www.google.com/maps/search/?api=1&query=National+Youth+Computer+Academy+Behala+Kolkata,Computer Training,4.9,500,Educational institution,0.55,Medium Priority,0.55,Low Priority
+94,India,Kolkata,DataSpace Academy,+91 91632 31144,https://www.google.com/maps/search/?api=1&query=DataSpace+Academy+Kolkata,Data Analytics and IT Training,4.7,1618,Educational institution,0.55,Medium Priority,0.55,Low Priority
+95,India,Kolkata,S Tribedi Computer Class,9830247557,https://www.google.com/maps/search/?api=1&query=S+Tribedi+Computer+Class+Behala+Kolkata,Computer and Programming Training,4.9,24,Educational institution,0.55,Medium Priority,0.55,Low Priority
+96,India,Kolkata,Amity Computer Academy - Salt Lake,9007850161,https://www.google.com/maps/search/?api=1&query=Amity+Computer+Academy+Salt+Lake+Kolkata,Computer Training,4.8,426,Educational institution,0.55,Medium Priority,0.55,Low Priority
+97,India,Kolkata,Amity Computer Academy - Jadavpur,9007850161,https://www.google.com/maps/search/?api=1&query=Amity+Computer+Academy+Jadavpur+Kolkata,Computer Training,4.8,416,Educational institution,0.55,Medium Priority,0.55,Low Priority
+98,India,Kolkata,Amity Computer Academy - Sodepur,9007850161,https://maps.app.goo.gl/eVxRGXnU6KUmgwNZ8,Computer Training,5.0,57,Educational institution,0.55,Medium Priority,0.55,Low Priority
+99,India,Kolkata,Palium Skills - South Kolkata,+91 8420594969,https://www.google.com/maps/search/?api=1&query=Palium+Skills+South+Kolkata,IT and Professional Training,4.7,253,Educational institution,0.55,Medium Priority,0.55,Low Priority
+100,India,Kolkata,Palium Skills - Salt Lake,+91 9903130500,https://www.google.com/maps/search/?api=1&query=Palium+Skills+Salt+Lake+Kolkata,IT and Professional Training,5.0,1,Educational institution,0.55,Medium Priority,0.55,Low Priority
+101,India,Kolkata,SMC Academy,+91 9836577512,https://www.google.com/maps/search/?api=1&query=SMC+Academy+Behala+Kolkata,Computer Training,4.9,138,Educational institution,0.55,Medium Priority,0.55,Low Priority
+103,India,Kolkata,A Plus Group Education Center - New Garia,+91 8777328580,https://www.google.com/maps/search/?api=1&query=A+Plus+Group+Education+Center+New+Garia,Computer Training,5.0,3,Educational institution,0.55,Medium Priority,0.55,Low Priority
+104,India,Kolkata,A Plus Group Education Center - Kasba,+91 8777328580,https://www.google.com/maps/search/?api=1&query=A+Plus+Group+Education+Center+Kasba+Kolkata,Computer Training,5.0,3,Educational institution,0.55,Medium Priority,0.55,Low Priority
+105,India,Kolkata,Garia Youth Computer Training Centre,9804078484,https://www.google.com/maps/search/?api=1&query=Garia+Youth+Computer+Training+Centre+Kolkata,Computer Training,4.7,441,Educational institution,0.55,Medium Priority,0.55,Low Priority
+106,India,Kolkata,Rajib Gandhi Computer Academy,7865068575,https://www.google.com/maps/search/?api=1&query=Rajib+Gandhi+Computer+Academy+Kolkata,Computer Training,4.9,59,Educational institution,0.55,Medium Priority,0.55,Low Priority
+107,India,Kolkata,Central Institute of Technology - Dum Dum,+91 9614142256,https://www.google.com/maps/search/?api=1&query=Central+Institute+of+Technology+Dum+Dum+Kolkata,IT and Computer Training,4.7,381,Educational institution,0.55,Medium Priority,0.55,Low Priority
+108,India,Kolkata,Central Institute of Technology - Garia,+91 9614142256,https://www.google.com/maps/search/?api=1&query=Central+Institute+of+Technology+Garia+Kolkata,IT and Computer Training,4.7,71,Educational institution,0.55,Medium Priority,0.55,Low Priority
+109,India,Kolkata,NIELIT Kolkata - Jadavpur Campus,033-24146054,https://www.google.com/maps/search/?api=1&query=NIELIT+Kolkata+Jadavpur+Campus,IT Training,4.2,147,Educational institution,0.55,Medium Priority,0.55,Low Priority
+110,India,Kolkata,NIELIT Kolkata - Salt Lake Campus,033-46020938,https://www.google.com/maps/search/?api=1&query=NIELIT+Kolkata+Salt+Lake+Campus,IT Training,4.3,68,Educational institution,0.55,Medium Priority,0.55,Low Priority
+111,India,Kolkata,LCC Infotech - Kolkata,9007130851,https://maps.app.goo.gl/VM1rTf7nMk9yRVAq7,Computer and IT Training,5.0,16,Educational institution,0.55,Medium Priority,0.55,Low Priority
+112,India,Kolkata,Keertika Academy Pvt. Ltd.,9830059192,https://www.google.com/maps/search/?api=1&query=Keertika+Academy+Kolkata,Computer and Vocational Training,4.8,1212,Educational institution,0.55,Medium Priority,0.55,Low Priority
+113,India,Kolkata,Nikhil Bangiya Vidyapeeth,9830170954,https://www.google.com/maps/search/?api=1&query=Nikhil+Bangiya+Vidyapeeth+Kolkata,Computer and Vocational Training,3.6,23,Educational institution,0.55,Medium Priority,0.55,Low Priority
+114,USA,Phoenix,Interface Technical Training,+1 602-266-8500,https://www.google.com/maps/search/?api=1&query=Interface+Technical+Training+Phoenix+AZ,IT Training,4.7,16,Educational institution,0.55,Medium Priority,0.55,Low Priority
+115,USA,Phoenix,iCode Chandler,+1 480-222-8991,https://www.google.com/maps/search/?api=1&query=iCode+Chandler+AZ,Coding and Technology Training,5.0,18,Educational institution,0.55,Medium Priority,0.55,Low Priority
+116,USA,Phoenix,Code Ninjas - Chandler Boulevard,+1 480-867-1158,https://www.google.com/maps/search/?api=1&query=Code+Ninjas+Chandler+Boulevard+Phoenix+AZ,Coding Training,4.8,27,Educational institution,0.55,Medium Priority,0.55,Low Priority
+117,India,Kolkata,Adwings Consultancy and Solutions Pvt Ltd,8584016528,https://www.google.com/maps/search/?api=1&query=Adwings+Consultancy+and+Solutions+Kolkata,Technology and Business Training,5.0,3,Educational institution,0.55,Medium Priority,0.55,Low Priority
+118,India,Kolkata,Amigos Solutions Pvt Ltd,9831119768,https://www.google.com/maps/search/?api=1&query=Amigos+Solutions+Kolkata,IT and Professional Training,5.0,59,Educational institution,0.55,Medium Priority,0.55,Low Priority
+119,India,Kolkata,Ascensive Educare Pvt Ltd,9331852177,https://www.google.com/maps/search/?api=1&query=Ascensive+Educare+Kolkata,IT and Professional Training,3.5,35,Educational institution,0.55,Medium Priority,0.55,Low Priority
+121,India,Kolkata,Brainware Consultancy Pvt Ltd,9433139265,https://www.google.com/maps/search/?api=1&query=Brainware+Consultancy+Kolkata,IT and Education,0.0,0,Educational institution,0.55,Medium Priority,0.55,Low Priority
+122,India,Kolkata,Consulting Management Incorporate Pvt Ltd,9230507528,https://www.google.com/maps/search/?api=1&query=Consulting+Management+Incorporate+Kolkata,Professional Training,0.0,0,Educational institution,0.55,Medium Priority,0.55,Low Priority
+123,India,Kolkata,Edujob Academy Pvt Ltd,9830025547,https://www.google.com/maps/search/?api=1&query=Edujob+Academy+Kolkata,Professional and IT Training,4.7,99,Educational institution,0.55,Medium Priority,0.55,Low Priority
+124,India,Kolkata,Emporium Training and Consultancy Pvt Ltd,9830051555,https://www.google.com/maps/search/?api=1&query=Emporium+Training+and+Consultancy+Kolkata,Professional Training,4.7,74,Educational institution,0.55,Medium Priority,0.55,Low Priority
+125,India,Kolkata,Global Technical Institute,9231551285,https://www.google.com/maps/search/?api=1&query=Global+Technical+Institute+Kolkata,Technical Training,4.8,612,Educational institution,0.55,Medium Priority,0.55,Low Priority
+126,India,Delhi,Kalyan health Clinic,9652916996,https://maps.app.goo.gl/kYamKcrb33znhG7B9,Doctor,4.9,34,Clinic,0.55,Medium Priority,0.55,Low Priority
+127,India,Delhi,Auris ENT Centre | Dr. Karandeep Singh,9985115778,https://maps.app.goo.gl/G9tAsEfG5Ce23ii18,ENT Specialist,4.9,686,Clinic,0.55,Medium Priority,0.55,Low Priority
+128,India,Delhi,Vedant Super Speciality Clinic,1141619666,Vedant Super Speciality Clinic - Google Maps,Hospital,5.0,30,Hospital,0.55,Medium Priority,0.55,Low Priority
+129,India,Delhi,C D Global Hospital,9310171264,C D Global Hospital - Google Maps,Hospital,4.6,216,Hospital,0.55,Medium Priority,0.55,Low Priority
+130,India,Delhi,Aggarwal Clinic (Dr. A. K. Aggarwal),9811339020,Aggarwal Clinic (Dr. A. K. Aggarwal) - Google Maps,General practitioner,4.6,36,Clinic,0.55,Medium Priority,0.55,Low Priority
+131,India,Delhi,Saluja Medicare,9811081199,Saluja Medicare - Google Maps,Medical clinic,3.8,43,Clinic,0.55,Medium Priority,0.55,Low Priority
+132,India,Delhi,Dr. S R Ganpathy,9941041312,Dr. S R Ganpathy - Google Maps,Cardiologist,4.7,53,Clinic,0.55,Medium Priority,0.55,Low Priority
+133,India,Delhi,DermaClinix,8882228070,DermaClinix - Google Maps,Hair transplantation clinic,4.5,475,Clinic,0.55,Medium Priority,0.55,Low Priority
+134,India,Delhi,Kharbanda Polyclinic & Dental,8595713137,Kharbanda Polyclinic & Dental - Google Maps,Dental clinic,4.3,52,Clinic,0.55,Medium Priority,0.55,Low Priority
+135,India,Delhi,D'Zen Derma,9650249776,"D'Zen Derma by Dr. Aarushi Passi: Cosmetic & Integrative Skin Clinic in Lajpat Nagar, Delhi - Google Maps",Skin care clinic,4.9,59,Clinic,0.55,Medium Priority,0.55,Low Priority
+137,USA,Washing ton dc,Injury Relief Chiropractic,18337741074,Injury Relief Chiropractic - Alexandria - Google Maps,Chiropractor,5.0,85,Clinic,0.55,Medium Priority,0.55,Low Priority
+138,USA,Washing ton dc,Thrive Integrative Health,17035632128,Thrive Integrative Health - Google Maps,Chiropractor,5.0,220,Clinic,0.55,Medium Priority,0.55,Low Priority
+139,USA,Washing ton dc,Kaiser Permanente Northwest D.C.,12027146200,Kaiser Permanente Northwest D.C. Medical Office Building - Google Maps,Medical clinic,4.5,302,Clinic,0.55,Medium Priority,0.55,Low Priority
+140,India,Delhi,"Dr B K Dubey(MD, FCCP )PHYSICIAN",9891142250,"Dr B K Dubey(MD, FCCP )PHYSICIAN - Google Maps",Hospital,4.9,316,Hospital,0.55,Medium Priority,0.55,Low Priority
+141,India,Delhi,Elite Clinic,7303053421,Elite Clinic - Google Maps,Hospital,4.9,"1,002",Hospital,0.55,Medium Priority,0.55,Low Priority
+142,India,Delhi,Vihaan Health Care,1140045561,Vihaan Health Care - Google Maps,Medical clinic,4.5,133,Clinic,0.55,Medium Priority,0.55,Low Priority
+143,India,Delhi,Vardaan Clinic,8586071299,Vardaan Clinic - Google Maps,Hospital,4.7,876,Hospital,0.55,Medium Priority,0.55,Low Priority
+144,India,Delhi,Kyno Health,9953104104,Kyno Health | Home Visit Doctor & General Physician in Rohini - Google Maps,Doctor,4.6,34,Clinic,0.55,Medium Priority,0.55,Low Priority
+145,India,Delhi,Synergy clinic sector 8 Rohini,8178835487,Synergy clinic sector 8 Rohini - Google Maps,Medical clinic,4.9,7,Clinic,0.55,Medium Priority,0.55,Low Priority
+146,USA,Washington DC,Washington Care Unlimited Inc.,     227-206-9087,Washington Care Unlimited Inc. - Google Maps,Hospital,5.0,1,Hospital,0.55,Medium Priority,0.55,Low Priority
+147,USA,Washington DC,All Heart Medical Center,2023995707,All Heart Medical Center - Google Maps,Hospital,4.5,8,Hospital,0.55,Medium Priority,0.55,Low Priority
+148,India,Delhi,Torres Vet Clinic (Sai charitable polyclinic),7291012010,Torres Vet Clinic (Sai charitable polyclinic) - Google Maps,Animal hospital,4.6,212,Hospital,0.55,Medium Priority,0.55,Low Priority
+149,India,Delhi,Nijhara Hospital,7838075955,Nijhara Hospital - Google Maps,Hospital,3.7,286,Hospital,0.55,Medium Priority,0.55,Low Priority
+151,India,Delhi,J K Hospital,1135697695,J K Hospital - Google Maps,Hospital,4.3,124,Hospital,0.55,Medium Priority,0.55,Low Priority
+152,India,Delhi,Tomar Medical Center,1145612781,Tomar Medical Center - Google Maps,Hospital,4.4,111,Hospital,0.55,Medium Priority,0.55,Low Priority
+153,India,Delhi,Phoenix Health Care & Aesthetic Clinic,8595464864,Phoenix Health Care & Aesthetic Clinic - Google Maps,Hospital,5.0,22,Hospital,0.55,Medium Priority,0.55,Low Priority
+154,India,Delhi,RG Stone Clinic,9953600222,RG Stone Clinic - Google Maps,Hospital,4.7,22,Hospital,0.55,Medium Priority,0.55,Low Priority
+155,India,Delhi,DR.GROVER'S CHILDREN CLINIC & VACCINATION,9717701217,DR.GROVER'S CHILDREN CLINIC & VACCINATION - Google Maps,Hospital,4.3,51,Hospital,0.55,Medium Priority,0.55,Low Priority
+156,India,Delhi,Dr R S Puri's Diabetic Clinic,9312624285,Dr R S Puri's Diabetic Clinic - Google Maps,Hospital,4.0,33,Hospital,0.55,Medium Priority,0.55,Low Priority
+157,India,Delhi,DR RK KAPOOR MS (ORTHO),9910056077,DR RK KAPOOR MS (ORTHO)AIIMS/KAPOOR ORTHOPAEDIC CLINIC - Google Maps,Orthopedic surgeon,4.5,753,Clinic,0.55,Medium Priority,0.55,Low Priority
+158,India,Delhi,Aura Aesthetics By Dr Tapeshwar Sehgal,9871006655,Aura Aesthetics By Dr Tapeshwar Sehgal - Google Maps,Hospital,4.0,149,Hospital,0.55,Medium Priority,0.55,Low Priority
+159,India,Delhi,Janak Nursing Home,1147010994,Janak Nursing Home - Google Maps,Nursing home,3.5,20,Hospital,0.55,Medium Priority,0.55,Low Priority
+160,India,Delhi,Dr. Rohit Garg,9871438960,Dr. Rohit Garg - Google Maps,Dermatalogist,4.9,356,Clinic,0.55,Medium Priority,0.55,Low Priority
+161,USA,Washington DC,MedStar Health Primary Care,2028772200,MedStar Health Primary Care at MedStar Washington Hospital Center Physician Office Building North 4200 - Google Maps,Medical clinic,4.8,1059,Clinic,0.55,Medium Priority,0.55,Low Priority
+162,USA,Washington DC,Thomas Circle,8886636331,One Medical Primary Care Clinic - Thomas Circle - Google Maps,Medical clinic,4.9,91,Clinic,0.55,Medium Priority,0.55,Low Priority
+163,USA,Washington DC,La Casa - La Clínica del Pueblo,12025074800,La Casa - La Clínica del Pueblo - Google Maps,Healthcenter,4.9,39,Clinic,0.55,Medium Priority,0.55,Low Priority
+164,India,Delhi,Motherhood Clinic Dr anuradhakhurana,9871453661,Motherhood Clinic Dr anuradhakhurana - Google Maps,Hospital,5.0,963,Hospital,0.55,Medium Priority,0.55,Low Priority
+165,India,Delhi,Rohini Health Care Clinic,9319049080,Rohini Health Care Clinic - Google Maps,Hospital,5.0,9,Hospital,0.55,Medium Priority,0.55,Low Priority
+166,India,Delhi,Diabetes and Kidney Care Clinic,9643596855,Diabetes and Kidney Care Clinic - Google Maps,Hospital,5.0,102,Hospital,0.55,Medium Priority,0.55,Low Priority
+167,India,Delhi,Bela clinic,9220155166,Bela clinic (best gynaecologist clinic Rohini) - Google Maps,Gynacologist,5.0,97,Clinic,0.55,Medium Priority,0.55,Low Priority
+168,India,Delhi,Sai Mahesh Medical Centre,9871734188,Sai Mahesh Medical Centre - Google Maps,Hospital,4.5,11,Hospital,0.55,Medium Priority,0.55,Low Priority
+169,India,Delhi,Satyam Health Care Centre,1141588893,Satyam Health Care Centre - Google Maps,Hospital,5.0,23,Hospital,0.55,Medium Priority,0.55,Low Priority
+170,India,Delhi,Hemraj Jain Hospital,1142411719,Hemraj Jain Hospital - Google Maps,Hospital,4.8,662,Hospital,0.55,Medium Priority,0.55,Low Priority
+171,India,Delhi,Rathee hospital,9540055690,Rathee hospital - Google Maps,Hospital,3.9,93,Hospital,0.55,Medium Priority,0.55,Low Priority
+172,India,Delhi,Shri Ram Hospital,6262304050,"Shri Ram Hospital, Best Multispeciality Hospital in Vikaspuri(CGHS,ECHS,DGEHS,AYUSHMAN BHARAT,NDMC,CAPF,GIPSA,PVT PANELS - Google Maps",Hospital,4.9,2946,Hospital,0.55,Medium Priority,0.55,Low Priority
+173,India,Delhi,Santom Hospital,9821050061,Santom Hospital - Google Maps,Multispeciality,4.6,712,Hospital,0.55,Medium Priority,0.55,Low Priority
+174,India,Delhi,Ishan Hospital,9212517399,Ishan Hospital - Google Maps,General hospital,4.7,557,Hospital,0.55,Medium Priority,0.55,Low Priority
+175,India,Delhi,Adarsh Hospital - Maternity,9560779867,"Adarsh Hospital - Maternity, Gynaecologist, Abortion, Child Health, Vaccination and Ultrasound center - Google Maps",Maternity center,4.8,793,Hospital,0.55,Medium Priority,0.55,Low Priority
+176,India,Delhi,Dr. Baba Saheb Ambedkar Hospital,1127058105,Dr. Baba Saheb Ambedkar Hospital - Google Maps,Govt hospital,3.2,1001,Hospital,0.55,Medium Priority,0.55,Low Priority
+177,India,Delhi,Jackson Hospital,8826343923,Jackson Hospital - Google Maps,Hospital,4.1,52,Hospital,0.55,Medium Priority,0.55,Low Priority
+178,India,Delhi,PRASHANT HOSPITAL,8595050039,PRASHANT HOSPITAL - Google Maps,Hospital,4.4,64,Hospital,0.55,Medium Priority,0.55,Low Priority
+179,India,Delhi,Sunrise Hospital,1127894780,Sunrise Hospital - Google Maps,Hospital,3.9,79,Hospital,0.55,Medium Priority,0.55,Low Priority
+180,India,Delhi,Rohini Heights Multispeciality Clinic,7988939535,Rohini Heights Multispeciality Clinic - Google Maps,Hospital,4.9,257,Hospital,0.55,Medium Priority,0.55,Low Priority
+181,India,Delhi,Jivaasha Neo Hospital,9211631885,Jivaasha Neo Hospital - Google Maps,Hospital,4.7,41,Hospital,0.55,Medium Priority,0.55,Low Priority
+182,India,Delhi,Bhagwati hospital,1143126000,Bhagwati hospital - Google Maps,Hospital,3.7,1027,Hospital,0.55,Medium Priority,0.55,Low Priority
+183,USA,Washington DC,CloseKnit Primary Care,2029750100,CloseKnit Primary Care - Google Maps,Hospital,4.2,1265,Hospital,0.55,Medium Priority,0.55,Low Priority
+184,USA,Washington DC,Medics USA,2024834400,Medics USA - Google Maps,Hospital,3.8,657,Hospital,0.55,Medium Priority,0.55,Low Priority
+185,USA,Washington DC,Whitman-Walker Health at 1525,12027457000,Whitman-Walker Health at 1525 - Google Maps,Hospital,3.4,242,Hospital,0.55,Medium Priority,0.55,Low Priority
+186,India,Delhi,Gut Clinic,9217533722,Gut Clinic - Lajpat Nagar - Google Maps,Gastroenterologist,5.0,91,Clinic,0.55,Medium Priority,0.55,Low Priority
+187,India,Delhi,Sri Bala Ji Medical Centre,9810019652,Sri Bala Ji Medical Centre - Orthopaedic Surgeon in Rohini - Google Maps,Hospital,4.7,272,Hospital,0.55,Medium Priority,0.55,Low Priority
+188,India,Delhi,Dr Ankur Sharma,9999414203,Dr Ankur Sharma - Google Maps,orthopedic,4.9,92,Clinic,0.55,Medium Priority,0.55,Low Priority
+189,India,Delhi,Blue Shine Dental Clinic,      95995 82158,Blue Shine Dental Clinic - Google Maps,Hospital,5.0,393,Hospital,0.55,Medium Priority,0.55,Low Priority
+190,India,Delhi,Dr.Deepak Shree Sai Clinic,      91361 66907,Dr.Deepak Shree Sai Clinic - Google Maps,Hospital,5.0,6,Hospital,0.55,Medium Priority,0.55,Low Priority
+191,USA,Washington DC,Hibiscus Medical,2023501546,Hibiscus Medical - Google Maps,Medical clinic,4.0,117,Clinic,0.55,Medium Priority,0.55,Low Priority
+192,India,Delhi,MEDILO HEALTH CARE 24x7,9990647337,MEDILO HEALTH CARE 24x7 - Google Maps,Medical center,4.9,131,Clinic,0.55,Medium Priority,0.55,Low Priority
+193,India,Delhi,"Max Medcentre, Lajpat Nagar",9268880303,"Max Medcentre, Lajpat Nagar - Google Maps",Medical clinic,4.4,861,Clinic,0.55,Medium Priority,0.55,Low Priority
+194,India,Delhi,Dr Monga Medi Clinic,8010977000,"Dr Monga Medi Clinic | Best Ayurvedic Doctors in Delhi | Gastro, Piles and Diabetes - Google Maps",Ayurvedic clinic,4.2,343,Clinic,0.55,Medium Priority,0.55,Low Priority
+195,India,Delhi,Aastha Medical Centre,9599340837,Aastha Medical Centre - Google Maps,Hospital,4.1,146,Hospital,0.55,Medium Priority,0.55,Low Priority
+196,India,Delhi,Pacific OneHealth,7011350742,"Pacific OneHealth - A Chain of Micro Hospitals, Lajpat Nagar - Google Maps",Hospital,4.9,463,Hospital,0.55,Medium Priority,0.55,Low Priority
+197,India,Delhi,Moolchand Hospital,1142000000,Moolchand Hospital - Google Maps,General Hospital,4.4,7924,Hospital,0.55,Medium Priority,0.55,Low Priority
+198,India,Delhi,Medi clinic,1146108702,Medi Clinic - Google Maps,Clinic,5.0,6,Clinic,0.55,Medium Priority,0.55,Low Priority
+199,India,Delhi,Pristyn Care Elantis,8065423640,"Pristyn Care Elantis - Best Super Speciality Hospital in Lajpat Nagar, Delhi | NABH Accredited - Google Maps",Hospital,4.4,1497,Hospital,0.55,Medium Priority,0.55,Low Priority
+200,India,Delhi,KVF Clinic 24x7,9310728979,KVF Clinic 24x7 - Emergency & Home Healthcare - Google Maps,Hospital,4.9,115,Hospital,0.55,Medium Priority,0.55,Low Priority
+201,India,Delhi,StepUp Joints,7042787560,StepUp Joints - Google Maps,Orthopedic clinic,4.9,221,Clinic,0.55,Medium Priority,0.55,Low Priority
+202,India,Delhi,Durga Healthcare,9911181511,Durga Healthcare - Google Maps,Hospital,5.0,55,Hospital,0.55,Medium Priority,0.55,Low Priority
+203,USA,Washington DC,Virginia Hospital Center,7035585000,Virginia Hospital Center - Google Maps,Hospital,3.8,1361,Hospital,0.55,Medium Priority,0.55,Low Priority
+204,USA,Washington DC,Q Street Medical Associates,2026675041,Q Street Medical Associates - Google Maps,Hospital,4.6,83,Hospital,0.55,Medium Priority,0.55,Low Priority
+205,USA,Washington DC,The Center for Endometriosis and Advanced Pelvic Surgery - CEAPS,7035050444,The Center for Endometriosis and Advanced Pelvic Surgery - CEAPS - Google Maps,Hospital,4.6,11,Hospital,0.55,Medium Priority,0.55,Low Priority
+206,USA,Washington DC,"Tepper Nutrition - Alexandria, VA",5713848181,"Tepper Nutrition - Alexandria, VA - Google Maps",Nutrinitionist,0.0,0,Clinic,0.55,Medium Priority,0.55,Low Priority
+207,USA,Washington DC,Midlife Medicine,5715463461,Midlife Medicine - Google Maps,Women's health clinic,5.0,15,Clinic,0.55,Medium Priority,0.55,Low Priority
+209,India,Delhi,Dune Aesthetics,9667499600,Dune Aesthetics by Dr. Aishwarya Bhatia | Best Skin Clinic - Google Maps,Skin Care,5.0,54,Clinic,0.55,Medium Priority,0.55,Low Priority
+210,India,Delhi,Birla Fertility & IVF Center,9289909408,Birla Fertility & IVF Center - Google Maps,Hospital,4.9,675,Hospital,0.55,Medium Priority,0.55,Low Priority
+211,India,Delhi,Navya ENT,9810366682,Navya Ent & Gynae Clinic | Gynecologist & Ent Specialist in Lajpat Nagar Delhi - Google Maps,Hospital,4.9,14,Hospital,0.55,Medium Priority,0.55,Low Priority
+214,India,Delhi,KA by dr geethika,8882782281,KA by Dr Geetika - Google Maps,Hospital,5.0,31,Hospital,0.55,Medium Priority,0.55,Low Priority
+215,India,Delhi,Dr. Vikas Agarwal,9717218284,Dr. Vikas Agarwal - Google Maps,Urologist,4.9,374,Clinic,0.55,Medium Priority,0.55,Low Priority
+216,India,Delhi,Healthy Hearts Clinic,9910323802,Healthy Hearts Clinic - Google Maps,Heart Hospital,5.0,4,Hospital,0.55,Medium Priority,0.55,Low Priority
+217,India,Delhi,Dr. Deepika Chauhan,8287481471,Dr. Deepika Chauhan - Google Maps,Hospital,4.9,151,Hospital,0.55,Medium Priority,0.55,Low Priority
+218,India,Delhi,Dr. GAZAL GARG,8860001818,Dr. GAZAL GARG | Gynaecologist in Dwarka Delhi - Google Maps,Gyneacologist,5.0,110,Hospital,0.55,Medium Priority,0.55,Low Priority
+219,India,Delhi,Chetna Foundation,9911338017,Chetna Foundation - Dwarka (Autism Healthcare Center) - Google Maps,Hospital,5.0,7,Hospital,0.55,Medium Priority,0.55,Low Priority
+220,India,Delhi,Dr. Bijoy Nayak - Robotic Gynecologist,9777111010,Dr.Bijoy Nayak - Robotic Gynecologist | Gynecologist In Dwarka - Google Maps,Gyneacologist,4.8,78,Hospital,0.55,Medium Priority,0.55,Low Priority
+221,India,Delhi,Tirupati Dental - Dental & Implant Center,7048969995,Tirupati Dental - Dental & Implant Center - Google Maps,Hospital,4.8,198,Hospital,0.55,Medium Priority,0.55,Low Priority
+222,India,Delhi,Shakram Clinic,9810881349,Shakram Clinic - Google Maps,Hospital,5.0,3,Hospital,0.55,Medium Priority,0.55,Low Priority
+223,India,Delhi,Hemraj Jain Hospital and Maternity Home,9717188451,Hemraj Jain Hospital and Maternity Home - Google Maps,Hospital,4.7,552,Hospital,0.55,Medium Priority,0.55,Low Priority
+224,India,Delhi,Arya Hospital,1145066244,Arya Hospital - Google Maps,Hospital,4.6,1497,Hospital,0.55,Medium Priority,0.55,Low Priority
+225,India,Delhi,Maccure Hospital,7042179696,"Maccure Hospital | Best Pregnancy, Maternity Hospital | Best Gynecologist in Janakpuri, Delhi - Google Maps",Hospital,4.7,455,Hospital,0.55,Medium Priority,0.55,Low Priority
+226,India,Delhi,Mata Chanan Devi Hospital,1145582050,Mata Chanan Devi Hospital - Google Maps,Hospital,4.1,1459,Hospital,0.55,Medium Priority,0.55,Low Priority
+227,India,Delhi,Dashmesh Hospital,1149096409,Dashmesh Hospital - Google Maps,Hospital,4.4,427,Hospital,0.55,Medium Priority,0.55,Low Priority
+228,India,Delhi,Lok Clinic & Hospital,8700728036,Lok Clinic & Hospital - Google Maps,Medical clinic,4.4,114,Clinic,0.55,Medium Priority,0.55,Low Priority
+229,India,Delhi,Orchid Hospital,1145654565,Orchid Hospital - Google Maps,Hospital,3.3,322,Hospital,0.55,Medium Priority,0.55,Low Priority
+230,India,Delhi,Bhagat Hospital,1145102030,Bhagat Hospital - Google Maps,Hospital,3.6,457,Hospital,0.55,Medium Priority,0.55,Low Priority
+231,India,Delhi,Sai Nursing Home,9891222412,Sai Nursing Home - Google Maps,Hospital,3.8,196,Hospital,0.55,Medium Priority,0.55,Low Priority
+232,India,Delhi,Lotus Hospital,1145467700,Lotus Hospital - Google Maps,Hospital,4.0,154,Hospital,0.55,Medium Priority,0.55,Low Priority
+233,USA,Washington DC,MinuteClinic at CVS,8663892727,MinuteClinic at CVS - Google Maps,Hospital,3.4,51,Hospital,0.55,Medium Priority,0.55,Low Priority
+234,USA,Washington DC,Washington Medical Group,2027852400,"Washington Medical Group, PC - Google Maps",Hospital,2.4,44,Hospital,0.55,Medium Priority,0.55,Low Priority
+235,USA,Washington DC,Bright Future Drug Rehabilitation Center,7712029029,Bright Future Drug Rehabilitation Center D.C - Google Maps,Hospital,5.0,7,Hospital,0.55,Medium Priority,0.55,Low Priority
+236,USA,Washington DC,Dupont Circle Physicians Group,2024630220,"Dupont Circle Physicians Group (NOW, WHI-Price Medical) - Google Maps",Hospital,4.6,55,Hospital,0.55,Medium Priority,0.55,Low Priority
+238,India,Bengaluru,Jeevika Hospital,8904739711,Jeevika Hospital - Google Maps,Hospital,4.5,6596,Hospital,0.55,Medium Priority,0.55,Low Priority
+239,India,Bengaluru,Rainbow Children's Hospital,8037836516,"Rainbow Children's Hospital - Best Pediatric Hospital, Bengaluru - Google Maps",Hospital,4.6,16993,Hospital,0.55,Medium Priority,0.55,Low Priority
+240,India,Bengaluru,Ayu Health Hospitals,8047186724,Ayu Health Hospitals - Google Maps,Hospital,4.7,73,Hospital,0.55,Medium Priority,0.55,Low Priority
+241,India,Bengaluru,RJH Clinic Pharma and Diagnostic Lab,8088013789,"RJH Clinic Pharma and Diagnostic Lab - Shanthiniketana Layout, Munnekolala, Marathahalli - Google Maps",Hospital,4.9,581,Hospital,0.55,Medium Priority,0.55,Low Priority
+242,India,Bengaluru,Nurture Multispeciality Clinic,8792711450,Nurture Multispeciality Clinic - Google Maps,Clinic,4.6,1137,Clinic,0.55,Medium Priority,0.55,Low Priority
+243,India,Bengaluru,Poorna Health Neuro Clinic,9900780315,Poorna Health Neuro Clinic - Google Maps,Hospital,4.6,155,Hospital,0.55,Medium Priority,0.55,Low Priority
+244,India,Bengaluru,Saanvi Clinic,9740401177,Saanvi Clinic - Google Maps,Clinic,4.7,85,Clinic,0.55,Medium Priority,0.55,Low Priority
+245,India,Bengaluru,Sanghi Medical Center,9206362613,Sanghi Medical Center - Google Maps,Clinic,4.1,928,Clinic,0.55,Medium Priority,0.55,Low Priority
+246,India,Bengaluru,Prasiddhi Hospital,9916399478,Prasiddhi Hospital - Google Maps,Hospital,4.0,70,Hospital,0.55,Medium Priority,0.55,Low Priority
+247,India,Bengaluru,Ram Speciality Clinic,9035317345,Ram Speciality Clinic - Google Maps,Hospital,4.6,348,Hospital,0.55,Medium Priority,0.55,Low Priority
+248,India,Bengaluru,JM HEALTHCARE,9885103008,JM HEALTHCARE - Google Maps,Hospital,4.9,59,Hospital,0.55,Medium Priority,0.55,Low Priority
+249,India,Bengaluru,Swastika Hospital,8022220156,Swastikaa Hospital - Google Maps,Hospital,4.1,114,Hospital,0.55,Medium Priority,0.55,Low Priority
+250,India,Bengaluru,Dr. Priya's Skin & Hair Clinic,9741032946,Dr. Priya's Skin & Hair Clinic - Marathahalli - Google Maps,Hospital,4.7,1653,Hospital,0.55,Medium Priority,0.55,Low Priority
+251,India,Bengaluru,Jyothi multispeciality clinic,7975477403,Jyothi multispeciality clinic - Google Maps,Hospital,4.6,34,Hospital,0.55,Medium Priority,0.55,Low Priority
+252,India,Bengaluru,Vasan Eye Care Hospita,18005712222,"Vasan Eye Care Hospital - (Marathahalli, Bengaluru) - Google Maps",Hospital,4.6,1938,Hospital,0.55,Medium Priority,0.55,Low Priority
+253,USA,New York,Bronx Foot Care: Oscar Castillo,7187925900,"Bronx Foot Care: Oscar Castillo, DPM - Google Maps",Hospital,4.6,223,Hospital,0.55,Medium Priority,0.55,Low Priority
+254,USA,New York,Pain Management NYC,2122249555,Pain Management NYC - Google Maps,Hospital,4.8,739,Hospital,0.55,Medium Priority,0.55,Low Priority
+255,USA,New York,The Mount Sinai Hospital,2122416500,The Mount Sinai Hospital - Google Maps,Hospital,3.4,1093,Hospital,0.55,Medium Priority,0.55,Low Priority
+256,USA,New York,NYU Langone Health,6469297800,NYU Langone Health - Google Maps,Hospital,3.7,552,Hospital,0.55,Medium Priority,0.55,Low Priority
+257,India,Bengaluru,Sanjeevani Poly Clinic,9880645296,Sanjeevani Poly Clinic - Google Maps,Hospital,4.0,60,Hospital,0.55,Medium Priority,0.55,Low Priority
+258,India,Bengaluru,Medistyk Clinic,9108930962,Medistyk Clinic - Google Maps,Hospital,4.8,13,Hospital,0.55,Medium Priority,0.55,Low Priority
+259,India,Bengaluru,Mannat Fertility Clinic,8762925555,"Mannat Fertility Clinic & IVF Centre Marathahalli, Bangalore - Google Maps",Hospital,4.5,790,Hospital,0.55,Medium Priority,0.55,Low Priority
+260,India,Bengaluru,Multispeciality Medivision Hospitals,9036675567,Multispeciality Medivision Hospitals - Google Maps,Hospital,3.0,12,Hospital,0.55,Medium Priority,0.55,Low Priority
+261,India,Bengaluru,Deepa Nursing Home,9844024457,Deepa Nursing Home - Google Maps,Hospital,3.8,36,Hospital,0.55,Medium Priority,0.55,Low Priority
+262,India,Bengaluru,Maa Kauvery Women,8068016801,"Maa Kauvery Women & Child Care Hospital in Electronic City, Bangalore - Google Maps",Hospital,4.8,4774,Hospital,0.55,Medium Priority,0.55,Low Priority
+263,India,Bengaluru,Sree Lakshmi Super Speciality Hospital,7406799991,Sree Lakshmi Super Speciality Hospital - Google Maps,Hospital,3.8,616,Hospital,0.55,Medium Priority,0.55,Low Priority
+264,India,Bengaluru,Dr. Praveena Shenoi,8037836516,Dr. Praveena Shenoi - Best Obstetrician & Gynecologist in Marathahalli | BirthRight by Rainbow Hospitals - Google Maps,Hospital,4.8,259,Hospital,0.55,Medium Priority,0.55,Low Priority
+265,India,Bengaluru,Lions Airport City Hospital,8041161848,Lions Airport City Hospital - Google Maps,General Hospital,3.4,44,Hospital,0.55,Medium Priority,0.55,Low Priority
+266,India,Bengaluru,LIFE CARE HOSPITAL,8026846677,"LIFE CARE HOSPITAL-LCH,BTM LAYOUT - Google Maps",Hospital,4.4,2524,Hospital,0.55,Medium Priority,0.55,Low Priority
+267,India,Bengaluru,Springleaf Hospital,7411122444,Springleaf Hospital - Google Maps,Hospital,4.2,1814,Hospital,0.55,Medium Priority,0.55,Low Priority
+268,India,Bengaluru,KRISH HOSPITAL,9980036936,KRISH HOSPITAL - GUNJUR - Google Maps,Hospital,4.3,283,Hospital,0.55,Medium Priority,0.55,Low Priority
+269,India,Bengaluru,Pooja Poly Clinic,7760269491,Pooja Poly Clinic - Google Maps,Hospital,4.2,17,Hospital,0.55,Medium Priority,0.55,Low Priority
+270,India,Bengaluru,Medivision Hospital,9901133022,Medivision Hospital ( Maternity and Surgical ) - Google Maps,Hospital,2.7,90,Hospital,0.55,Medium Priority,0.55,Low Priority
+271,India,Bengaluru,Oyster Multispeciality Clinic,9972468708,Oyster Multispeciality Clinic - Google Maps,Hospital,4.2,298,Hospital,0.55,Medium Priority,0.55,Low Priority
+272,India,Bengaluru,MIRACLE CLINIC,9901496408,MIRACLE CLINIC - Google Maps,Hospital,4.4,183,Hospital,0.55,Medium Priority,0.55,Low Priority
+273,India,Bengaluru,Dr. Sandeep Mahapatra,9741223217,Dr. Sandeep Mahapatra - Google Maps,Hospital,4.6,358,Hospital,0.55,Medium Priority,0.55,Low Priority
+274,USA,New York,Mount Sinai Medical Center,12122419728,Mount Sinai Medical Center - Google Maps,Hospital,3.8,71,Hospital,0.55,Medium Priority,0.55,Low Priority
+275,USA,New York,Midtown Health Cente,17186063863,Midtown Health Center - Google Maps,Hospital,4.3,220,Hospital,0.55,Medium Priority,0.55,Low Priority
+276,USA,New York,NewYork-Presbyterian,12123125000,NewYork-Presbyterian Lower Manhattan Hospital - Google Maps,Hospital,3.6,532,Hospital,0.55,Medium Priority,0.55,Low Priority
+277,USA,New York,Lenox Hill Hospital,12124342000,Lenox Hill Hospital - Google Maps,Hospital,3.6,854,Hospital,0.55,Medium Priority,0.55,Low Priority
+278,USA,New York,Tisch Hospital,16469297870,Tisch Hospital - Google Maps,Hospital,3.9,396,Hospital,0.55,Medium Priority,0.55,Low Priority
+279,India,Bengaluru,Marvel Multispeciality Hospital,8041144999,Marvel Multispeciality Hospital - Google Maps,Hospital,4.3,1501,Hospital,0.55,Medium Priority,0.55,Low Priority
+280,India,Bengaluru,Aanvii Hearing Aid Centre,7204274007,"Aanvii Hearing Aid Centre - Marathahalli, Bangalore - Google Maps",Hospital,4.9,902,Hospital,0.55,Medium Priority,0.55,Low Priority
+281,India,Bengaluru,Iswarya IVF & Fertility Center Marathahalli,9962700000,Iswarya IVF & Fertility Center Marathahalli - Google Maps,Hospital,4.7,537,Hospital,0.55,Medium Priority,0.55,Low Priority
+282,India,Bengaluru,Sri Ram Clinic,7013814109,Sri Ram Clinic - Google Maps,Hospital,5.0,18,Hospital,0.55,Medium Priority,0.55,Low Priority
+283,India,Bengaluru,Vijaya Clinic,9880910478,Vijaya Clinic (Dr. Vijayashree K. T Reddy) - Google Maps,Hospital,3.1,61,Hospital,0.55,Medium Priority,0.55,Low Priority
+284,India,Bengaluru,UDAYA DIAGNOSTICS,8123867778,UDAYA DIAGNOSTICS - Google Maps,Diagnostic Center,4.3,3,Clinic,0.55,Medium Priority,0.55,Low Priority
+285,India,Bengaluru,Atomos Neuro Cardio Clinic Marathahalli,7975333845,Atomos Neuro Cardio Clinic Marathahalli - Google Maps,Medical center,4.8,92,Clinic,0.55,Medium Priority,0.55,Low Priority
+286,India,Bengaluru,Dr. Payal Mahapatra,7337761236,Dr. Payal Mahapatra - Gynecologist and Fertility Specialist at Neo Fertility IVF Clinic - Marathahalli - Google Maps,Hospital,4.8,68,Hospital,0.55,Medium Priority,0.55,Low Priority
+287,India,Bengaluru,Homeo Central Clinic,9513138484,Homeo Central Clinic - Google Maps,Hospital,4.7,264,Hospital,0.55,Medium Priority,0.55,Low Priority
+288,India,Bengaluru,Daya Labs Centromed,8095514400,Daya Labs Centromed - Google Maps,Hospital,4.9,749,Hospital,0.55,Medium Priority,0.55,Low Priority
+289,India,Bengaluru,New Akshay Mallya Hospital,7829119481,New Akshay Mallya Hospital - Google Maps,Hospital,2.1,103,Hospital,0.55,Medium Priority,0.55,Low Priority
+291,India,Bengaluru,PJR Children's Clinic,9035022234,PJR Children's Clinic - Google Maps,Hospital,4.3,106,Hospital,0.55,Medium Priority,0.55,Low Priority
+294,USA,New York,Hospital for Special Surgery,12126061000,Hospital for Special Surgery Main Hospital - Google Maps,Hospital,4.3,720,Hospital,0.55,Medium Priority,0.55,Low Priority
+295,USA,New York,Great Neck Podiatry,15168291028,"Great Neck Podiatry: Lance Greiff, DPM - Google Maps",Podiatrist,4.7,146,Clinic,0.55,Medium Priority,0.55,Low Priority
+296,USA,New York,"Manhattan Eye, Ear & Throat Hospital",12128389200,"Manhattan Eye, Ear & Throat Hospital - Google Maps",Hospital,4.1,171,Hospital,0.55,Medium Priority,0.55,Low Priority
+297,USA,New York,Walk In Clinic of NYC,12126865800,Walk In Clinic of NYC - Google Maps,Hospital,4.8,195,Hospital,0.55,Medium Priority,0.55,Low Priority
+298,USA,New York,Mount Sinai Morningside,12125234000,Mount Sinai Morningside - Google Maps,Hospital,2.9,455,Hospital,0.55,Medium Priority,0.55,Low Priority
+299,India,Bengaluru,Patanjali Chikitsalay,8105551921,Patanjali Chikitsalay - Google Maps,Hospital,3.9,238,Hospital,0.55,Medium Priority,0.55,Low Priority
+300,India,Bengaluru,The Urban Physio Care,7349763249,The Urban Physio Care – Clinic & Home Care Service Marathahalli - Google Maps,Hospital,4.9,188,Hospital,0.55,Medium Priority,0.55,Low Priority
+301,India,Bengaluru,Aster Pharmacy - Marathahalli,8071177957,Aster Pharmacy - Marathahalli - Google Maps,Hospital,4.8,446,Hospital,0.55,Medium Priority,0.55,Low Priority
+303,India,Bengaluru,Caremaxx Hospital,9036461468,Caremaxx Hospital - Google Maps,Hospital,5.0,24,Hospital,0.55,Medium Priority,0.55,Low Priority
+304,India,Bengaluru,V-Care Hospital,8023434373,V-Care Hospital - Google Maps,Hospital,3.6,1146,Hospital,0.55,Medium Priority,0.55,Low Priority
+305,India,Bengaluru,ramdev medicrest,6361224211,ramdev medicrest - Google Maps,Hospital,4.1,7,Hospital,0.55,Medium Priority,0.55,Low Priority
+306,India,Bengaluru,Narayana Clinic,8068617769,"Narayana Clinic, Haralur Road - Google Maps",Hospital,4.9,2577,Hospital,0.55,Medium Priority,0.55,Low Priority
+307,India,Bengaluru,Horizon Medical Center,8023230366,Horizon Medical Center (HMC) – Bellandur - Google Maps,Hospital,4.8,167,Hospital,0.55,Medium Priority,0.55,Low Priority
+308,India,Bengaluru,NELIVIGI MULTISPECIALITY HOSPITAL,6366208767,NELIVIGI MULTISPECIALITY HOSPITAL - Google Maps,Hospital,4.2,336,Hospital,0.55,Medium Priority,0.55,Low Priority
+309,India,Bengaluru,Manipal Hospitals Sarjapur Road,18001024647,Manipal Hospitals Sarjapur Road - Google Maps,Hospital,4.5,13921,Hospital,0.55,Medium Priority,0.55,Low Priority
+310,India,Bengaluru,Cloudnine Hospital,9972899728,Cloudnine Hospital - Bellandur | Best Maternity & Pregnancy Centre - Google Maps,Hospital,4.6,7328,Hospital,0.55,Medium Priority,0.55,Low Priority
+311,India,Bengaluru,Pristyn Care,8065105053,Pristyn Care - Google Maps,Hospital,4.4,733,Hospital,0.55,Medium Priority,0.55,Low Priority
+312,India,Bengaluru,Sakra World Hospital,8049694969,Sakra World Hospital - Google Maps,Hospital,4.0,7400,Hospital,0.55,Medium Priority,0.55,Low Priority
+313,India,Bengaluru,Soorya Health Care,9740036073,Soorya Health Care - Google Maps,Hospital,4.4,159,Hospital,0.55,Medium Priority,0.55,Low Priority
+314,India,Bengaluru,Pruthvi Healthcare,8040959625,Pruthvi Healthcare - Google Maps,Hospital,3.8,30,Hospital,0.55,Medium Priority,0.55,Low Priority
+316,USA,New York,CityMD West 57th Urgent Care,12123152330,CityMD West 57th Urgent Care - NYC - Google Maps,Hospital,4.0,878,Hospital,0.55,Medium Priority,0.55,Low Priority
+317,USA,New York,Northwell Greenwich Village Hospital,16466656000,Northwell Greenwich Village Hospital - Google Maps,Hospital,3.4,31,Hospital,0.55,Medium Priority,0.55,Low Priority
+318,USA,New York,Northwell Health,12123717230,Northwell Health - Google Maps,Hospital,3.4,10,Hospital,0.55,Medium Priority,0.55,Low Priority
+319,USA,New York,Harlem Hospital Clinic,12129391965,Harlem Hospital Clinic - Google Maps,Hospital,3.2,9,Hospital,0.55,Medium Priority,0.55,Low Priority
+320,India,Bengaluru,NELIVIGI EYE HOSPITAL,8043705050,NELIVIGI EYE HOSPITAL - Google Maps,Hospital,4.8,1674,Hospital,0.55,Medium Priority,0.55,Low Priority
+321,India,Bengaluru,PhysioCare By Dr.Swati,8317312538,PhysioCare By Dr.Swati @Bellandur | Best Physiotherapist in Bellandur - Google Maps,Hospital,4.9,556,Hospital,0.55,Medium Priority,0.55,Low Priority
+322,India,Bengaluru,Aster Hospital Whitefield Bangalore,8045108888,Aster Hospital Whitefield Bangalore - Google Maps,Hospital,4.7,11067,Hospital,0.55,Medium Priority,0.55,Low Priority
+323,India,Bengaluru,The Eye Foundation Eye Hospital,8925850387,The Eye Foundation Eye Hospital - Bangalore - Google Maps,Hospital,4.8,6524,Hospital,0.55,Medium Priority,0.55,Low Priority
+324,India,Bengaluru,Dr. Mohan Ram,8065105053,"Dr. Mohan Ram - Free Consultation for Piles, Circumcision, Hernia | Best Laparoscopic & General Surgeon in Bangalore - Google Maps",Hospital,4.8,47,Hospital,0.55,Medium Priority,0.55,Low Priority
+325,India,Bengaluru,Her Care Scans,8148340982,Her Care Scans - Pregnancy Scans | Ultrasound Scans | Painless HSG - Google Maps,Hospital,4.8,579,Hospital,0.55,Medium Priority,0.55,Low Priority
+326,India,Bengaluru,AyurCentral Bellandur,8147133548,AyurCentral Bellandur - Google Maps,Hospital,5.0,127,Hospital,0.55,Medium Priority,0.55,Low Priority
+327,India,Bengaluru,Dr. Suresh,18605001066,Dr. Suresh - Google Maps,Hospital,4.8,52,Hospital,0.55,Medium Priority,0.55,Low Priority
+328,India,Bengaluru,HEAL TOUCH SPECIALITY CLINIC,9845238822,HEAL TOUCH SPECIALITY CLINIC - Google Maps,Hospital,4.9,96,Hospital,0.55,Medium Priority,0.55,Low Priority
+329,India,Bengaluru,Cloudnine IVF Center in Bellandur,8068216217,Cloudnine IVF Center in Bellandur | Best Fertility & IVF Treatments in Bengaluru - Google Maps,Hospital,4.9,75,Hospital,0.55,Medium Priority,0.55,Low Priority
+330,India,Bengaluru,Sakra premium Clinic,8068909090,Sakra premium Clinic - Google Maps,Hospital,3.7,647,Hospital,0.55,Medium Priority,0.55,Low Priority
+331,India,Bengaluru,DENT-O-CARE MULTI SPECIALITY DENTAL CLINIC,9663661131,DENT-O-CARE MULTI SPECIALITY DENTAL CLINIC|DENTAL CLINIC IN BELLANDUR BANGALORE| - Google Maps,Dental Clinic,4.9,233,Clinic,0.55,Medium Priority,0.55,Low Priority
+332,India,Bengaluru,Bangalore Gastro Centre Hospitals,8050354057,Bangalore Gastro Centre Hospitals | Best Gastroenterology Hospital in Sarjapur Bangalore - Google Maps,Gastroenterologist,4.7,163,Hospital,0.55,Medium Priority,0.55,Low Priority
+333,India,Bengaluru,"ZIUR - Skin, Hair & Laser Clinic",6364783793,"ZIUR - Skin, Hair & Laser Clinic | Skin Clinic In Bangalore - Google Maps",Skin care,4.9,1215,Clinic,0.55,Medium Priority,0.55,Low Priority
+334,India,Bengaluru,Padithem Health Care,9019888883,Padithem Health Care - Google Maps,Doctor,4.6,1578,Clinic,0.55,Medium Priority,0.55,Low Priority
+335,USA,New York,Memorial Sloan Kettering Patient Urgent Care Center,2126392000,Memorial Sloan Kettering Patient Urgent Care Center - Google Maps,Hospital,2.8,38,Hospital,0.55,Medium Priority,0.55,Low Priority
+208,India,Delhi,Health Point,9711022007,Health Point - Google Maps,Equipment supplier,4.7,10,Pharmacy,0.15,Low Priority,0.367,Low Priority
+120,India,Kolkata,Bijan Banerjee Memorial Charitable Trust,9830005659,https://www.google.com/maps/search/?api=1&query=Bijan+Banerjee+Memorial+Charitable+Trust+Kolkata,Skill Development,5.0,1,Charity,0.15,Low Priority,0.325,Low Priority
+136,India,Delhi,DR.HM. MALHOTRA,9910102207,"DR.HM. MALHOTRA - Psychiatrist, OCD, Anxiety, Family, Marriage Counsellor, Mental health, | New Delhi - Google Maps",Pschiatrist,3.9,37,Psychiatrist,0.15,Low Priority,0.234,Low Priority
+212,India,Delhi,DR pallavi sharma,7042787560,Dr. Pallavi Sharma | Psychiatrist | StepUp | Fortis - Google Maps,Psychiatrist,5.0,32,Psychiatrist,0.15,Low Priority,0.234,Low Priority
+102,India,Kolkata,A Plus Group Software Research and Development Center,+91 8777328580,https://www.google.com/maps/search/?api=1&query=A+Plus+Group+Software+Research+Development+Kolkata,Software Development,5.0,4,Software company,0.15,Low Priority,0.192,Low Priority
